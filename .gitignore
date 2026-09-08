@@ -1,0 +1,34 @@
+# Keil C51 build outputs and browse information
+*.obj
+*.o
+*.d
+*.lst
+*.m51
+*.map
+*.hex
+*.bin
+*.elf
+*.axf
+*.abs
+*.lib
+*.i
+*.s
+
+# Keil uVision generated files and local session settings
+*.uvguix.*
+*.uvopt
+*.uvoptx
+*.bak
+*.dep
+*.crf
+*.lnp
+
+# Editor, OS, and temporary files
+.vscode/
+.idea/
+*.tmp
+*.log
+*.swp
+*~
+.DS_Store
+Thumbs.db
